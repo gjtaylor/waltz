@@ -53,7 +53,7 @@
         <spring.version>4.3.10.RELEASE</spring.version>
         <super-csv.version>2.4.0</super-csv.version>
         <freemarker.version>2.3.23</freemarker.version>
-        <maven-shade-plugin.version>2.4.3</maven-shade-plugin.version>
+        <maven-shade-plugin.version>3.2.1</maven-shade-plugin.version>
         <timestamp>${maven.build.timestamp}</timestamp>
         <maven.build.timestamp.format>yyyy-MM-dd HH:mm</maven.build.timestamp.format>
     </properties>
